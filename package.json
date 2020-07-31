@@ -1,0 +1,32 @@
+{
+  "name": "react-native-searchable-country-dropdown",
+  "version": "1.0.0",
+  "description": "A simple react native component that allows you to search and pick a country from the dropdown. The dropdown then returns the country and country code of the item selected from the dropdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengwee/react-native-searchable-country-dropdown.git"
+  },
+  "keywords": [
+    "react-native",
+    "country-picker",
+    "country-dropdown",
+    "searchable-country-dropdown",
+    "textinput-country",
+    "country"
+  ],
+  "author": "ChengWee Hoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengwee/react-native-searchable-country-dropdown/issues"
+  },
+  "homepage": "https://github.com/chengwee/react-native-searchable-country-dropdown#readme",
+  "dependencies": {
+    "country-list": "^2.2.0",
+    "react-native-flags": "^1.0.0",
+    "react-native-searchable-country-dropdown": "file:/Users/fades/Desktop/react-native-searchable-country-dropdown/react-native-searchable-country-dropdown-1.0.0.tgz"
+  }
+}
