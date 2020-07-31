@@ -26,7 +26,6 @@
   "homepage": "https://github.com/chengwee/react-native-searchable-country-dropdown#readme",
   "dependencies": {
     "country-list": "^2.2.0",
-    "react-native-flags": "^1.0.0",
-    "react-native-searchable-country-dropdown": "file:/Users/fades/Desktop/react-native-searchable-country-dropdown/react-native-searchable-country-dropdown-1.0.0.tgz"
+    "react-native-flags": "^1.0.0"
   }
 }
