@@ -53,7 +53,7 @@ Defaults to "black"
     import CountrySelectDropdown from "react-native-searchable-country-dropdown"
 
         <CountrySelectDropdown
-            countrySelect={({name, code}) => setCountryCode(code))}
+            countrySelect={setCountryCode}
             error={errorMsg}
             fontFamily={"Nunito-Regular"}
             textColor={"#f3f3f3"}
