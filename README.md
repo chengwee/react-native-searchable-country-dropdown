@@ -5,7 +5,7 @@ A simple react native component that allows you to search and pick a country fro
     npm install react-native-searchable-country-dropdown
 
 # Demo
-### Demo can be found in the example folder
+### Demo can be found in the examples folder
 
 ![Demo](https://media.giphy.com/media/jPAxKFTFUzvcIWyj6M/giphy.gif)
 
